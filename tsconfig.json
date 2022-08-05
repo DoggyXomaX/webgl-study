@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "strictNullChecks": true,
+    "sourceMap": true,
+    "noEmitOnError": true,
+    "target": "ES6"
+  }
+}
